@@ -1,0 +1,32 @@
+:Base Techsupp.hlp>main
+1 Informações de suporte ao cliente
+2 Assistência e Suporte Corel Print House=Corel Print House Service and Support
+2 Como entrar em contato com a Corel na América do Norte=How to reach Corel in North America
+2 Como entrar em contato com a Corel internacional=How to reach Corel worldwide
+2 Como usar o Sistema FaxBack Automático=How to use the Automated FaxBack System
+2 Opções de suporte eletrônico =Electronic support options
+1 Mensagens de erro
+2 Mensagens de erro de condição imprevista=Unexpected Condition Error Messages
+2 Diagnóstico de erros de página (IPFs) bloqueio do sistema no Windows 95=Diagnosing Invalid Page Faults IPFs and system lockups in Windows 95
+1 Dicas para solução de problemas
+2 Para melhorar o desempenho do sistema=Enhancing System Performance
+2 Técnicas para a solução de problemas=Troubleshooting Techniques
+2 Dicas e truques para a solução de problemas =Tips  tricks for troubleshooting
+2 O que fazer se o trabalho não for impresso=What to do if your print job doesnt print
+2 Solução de problemas de impressão=Troubleshooting printing problems
+1 Área de Transferência e limitações gerais ao colar
+2 Área de Transferência: limitações gerais ao colar=Clipboard General pasting limitations
+1 Informação de Importação
+ 2Importação - Observações técnicas (*.CDR, *.CMF, *CMX, *.CCH, *.AI, *.CMV, *.PAT, *.SHW)=Import  CDR CMF CMX CCH AI CMV PAT SHWTechnical Notes
+2 Importação - Observações técnicas sobre Windows Metafile (*.WMF)=Import  Windows Metafile WMFTechnical Notes
+2 Importação - Observações técnicas sobre Bitmaps (*.BMP, *.GIF, *.PCX, *.TIF)=Import  Bitmaps BMP GIF PCX TIFTechnical Notes
+2 Importação - Observações técnicas sobre Bitmaps JPEG (*.JPG, *.JFF, *.JTF)=Import  JPEG Bitmap JPG JFF JTFTechnical Notes
+2 Importação - Observações técnicas sobre imagens Kodak Photo CD (*.PCD)=Import  Kodak Photo CD images PCDTechnical Notes
+2 Importação - Observações técnicas sobre WordPerfect Graphic (*.WPG)=Import  WordPerfect Graphic WPGTechnical Notes
+2 Observações gerais sobre a importação de arquivos de texto=General Notes on Importing Text files
+1 Informação de Exportação
+2 Exportação - Observações técnicas sobre Bitmaps=Export  BitmapsTechnical Notes
+2 Exportação - Observações técnicas sobre Windows Metafile (.WMF)=Export  Windows Metafile WMFTechnical Notes
+2 Exportação - Observações técnicas sobre WordPerfect (.WPG)=Export  WordPerfect WPGTechnical Notes
+2 Exportação - Observações técnicas sobre CorelDraw (.CMX)=Export  CorelDraw CMXTechnical Notes
+

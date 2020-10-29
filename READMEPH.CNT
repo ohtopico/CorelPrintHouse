@@ -1,0 +1,22 @@
+:Base readmeph.hlp>proc4
+:Leia Me do Título do Corel Print House (Maio 1996)
+1 O que há neste documento?=What_is_in_this_file
+1 Informações sobre instalação=Installation_Information 
+1 Remoção da instalação do Corel Print House=Uninstalling Corel Print House
+1 Informações gerais =Corel_Print_House_1
+1 Impressão
+2 Impressoras Não Postscript=NON_Postscript_Printers 
+2 Impressoras Postscript=Postscript_Printers
+2 Área de impressão=Printing_area
+2 Preenchimentos radiais no texto=Radial_fills_in_text
+2 Reinstalação de impressoras=Reinstalling printers
+2 Texto que se sobrepõe aos gráficos=Text overlapping graphics
+1 Digitalizando
+2 Considerações sobre digitalização=Scanning considerations
+1 Errata
+2 Nomes de arquivos de amostra=Sample file names
+2 Alterações no Manual do Usuário=Changes in the User Manual
+1 Como entrar em contato conosco
+2 Sugestões e comentários sobre a documentação=Documentation
+2 Sugestões e comentários sobre o software=Software suggestions and comments
+

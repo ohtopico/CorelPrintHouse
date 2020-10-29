@@ -1,0 +1,40 @@
+REGEDIT4
+
+; Sets up the configuration for Corel PrintHouse 1.1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Corel]
+"UserName"=
+"PhoneNumber"=
+"Organization"=
+"Fax"=
+"Title"=
+"Address"=
+"City"=
+"Prov"=
+"Zip"=
+"Email"=
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Corel\CorelPrintHouse]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Corel\CorelPrintHouse\1.1]
+"ConfigDir"="C:\\PrintHse"
+"SerialNumber"=
+"GroupName"=
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Corel Applications]
+"DisplayName"="Corel Applications"
+"UninstallString"="C:\\WINDOWS\\COREL\\UNINSTAL.EXE"
+
+; Sets up the configuration information for launching from explorer
+[HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1]
+@="Corel Print House 1.1 Document"
+
+[HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1\shell]
+
+[HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1\shell\open]
+
+[HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1\shell\open\command]
+@="D:\\PrintHse\\printhse.exe %1"
+
+[HKEY_CLASSES_ROOT\.cph]
+@="CorelPrintHouse.doc.1.1"

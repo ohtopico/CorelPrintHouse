@@ -1,0 +1,22 @@
+[Params]
+	WndTitle   = Programa de Instalação do Microsoft Win32s
+	WndMess    = Inicializando o Programa de Instalação do Microsoft Win32s...
+	TmpDirSize = 500
+	TmpDirName = mssetup
+	CmdLine    = _mstest 32sinst.mst /C "/S %s %s"
+	DrvModName = DSHELL
+
+[Files]
+	32sinst.ms_  = 32sinst.mst
+	32sinst.in_  = 32sinst.inf
+	setupapi.in_ = setupapi.inc
+	msdetect.in_ = msdetect.inc
+	mscomstf.dl_ = mscomstf.dll
+	msinsstf.dl_ = msinsstf.dll
+	msuilstf.dl_ = msuilstf.dll
+	msshlstf.dl_ = msshlstf.dll
+	mscuistf.dl_ = mscuistf.dll
+	msdetstf.dl_ = msdetstf.dll
+	iniupd.dl_   = iniupd.dll
+	_mstest.ex_  = _mstest.exe
+	_mssetup.ex_ = _mssetup.exe

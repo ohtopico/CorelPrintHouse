@@ -1,0 +1,9 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\crlscsi]
+"ErrorControl"=
+"Group"=
+"Start"=
+"DependOnGroup"=
+"Type"=
+

@@ -1,0 +1,14 @@
+REGEDIT
+
+; Sets up the configuration for Corel PrintHouse 1.1 under Win 3.1
+
+; Sets up the configuration information for launching from file manager
+HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1 = Corel Print House 1.1 Document
+
+HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1\shell
+
+HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1\shell\open
+
+HKEY_CLASSES_ROOT\CorelPrintHouse.doc.1.1\shell\open\command = C:\Printhse\printhse.exe %1
+
+HKEY_CLASSES_ROOT\.cph = CorelPrintHouse.doc.1.1

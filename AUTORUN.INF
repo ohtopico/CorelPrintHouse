@@ -1,0 +1,26 @@
+[Autorun]
+OPEN=AUTORUN.EXE
+ICON=setup\AUTOHSE.ICO
+
+[Product]
+Title = CD-ROM do Corel Print House 
+RegistryKey = SOFTWARE\Corel\CorelPrintHouse\1.1
+WaveFile = setup\INTRO.WAV
+SetupProgram = SETUP.EXE
+NoProcessCaption = Programa não encontrado
+NoProcessTextLine1 = É possível que o CD-ROM tenha sido removido.
+NoProcessTextLine2 = Insira novamente o CD-ROM e clique 'Repetir' para continuar, ou clique 'Cancelar' para sair.
+LabelFont = Ariel
+TextFont = Times New Roman
+Charset = 1
+
+[Buttons]
+SetupLabel = Programa de Instalação
+SetupText = Clique aqui para iniciar o programa de instalação do Corel Print House
+CancelLabel = Cancelar
+CancelText = Clique aqui para sair
+
+[Bitmaps]
+2Color = setup\INTROBW.BMP
+16Color = setup\INTRO16.BMP
+256Color = setup\INTRO256.BMP

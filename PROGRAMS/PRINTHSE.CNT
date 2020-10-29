@@ -1,0 +1,242 @@
+:Base printhse.hlp>main
+1 Iniciar
+2 Bem-vindo ao Corel Print House=Welcome to Corel Print House
+2 Escolha de um método para criar seu projeto =Choosing a method to create your project
+2 Utilização dos Assistentes do Print House=Using Print Houses Wizards
+2 Queremos saber a sua opinião!=Wed love to hear from you
+2 Pastas e diretórios=Folders and directories
+1 Recursos do Print House
+2 Projetos de design do Print House
+3 Cartões=Cards
+3 Faixas=Banners
+3 Sinalizações=Signs
+3 Diplomas=Certificates
+3 Calendários=Calendars
+3 Folhetos=Brochures
+3 Documentos comerciais=Business forms
+3 Etiquetas=Labels
+3 Diversos=Miscellaneous
+2 A área de trabalho do Print House
+3 A área de trabalho=The desktop
+3 A Caixa de Ferramentas=The Toolbox
+3 A Caderneta=The Notebook
+3 A página Chave=The Key page
+3 A página Estilos=The Styles page
+3 O Catálogo=The Catalog
+3 A Barra de Propriedades =The Property Bar
+2 Ilustração; bordas; telas de fundo, frases e fotografias
+3 Utilização de ilustrações, bordas, telas de fundo, frases e fotos=Using clipart borders backdrops phrases and photographs
+2 Criação de objetos e adição de texto
+3 Criação de objetos e formas=Creating objects and shapes
+3 Adição de texto=Adding text
+3 Propriedades padrão=Default properties
+2 Organização de objetos
+3 Seleção de objetos =Selecting objects
+3 Movimentação, cópia e exclusão de objetos=Moving copying and deleting objects
+3 Agrupamento e combinação de objetos=Grouping and combining objects
+3 Ordenação de objetos=Ordering objects
+2 Modificação da aparência dos objetos
+3 Dimensionamento, rotação e inclinação de objetos=Sizing rotating and skewing objects
+3 Contorno de objetos=Outlining objects
+3 Modificação da forma de objetos=Changing the shape of objects
+3 Preenchimento e cor de objetos=Filling or coloring objects
+3 Paleta de cores=Color palettes
+3 O que são os modelos de cores=Understanding color models
+2 Visualização do trabalho
+3 Visualização do trabalho=Viewing your work
+2 Configuração de página
+3 Layouts de página=Page layouts
+3 Gravação do trabalho=Saving your work
+3 Para abrir um arquivo=Opening a file
+2 Importação de dados e impressão do trabalho
+3 Impressão do trabalho=Printing your work
+3 Importação de dados e utilização de impressão mesclada=Importing data and using print merge
+2 Digitalizar imagens
+3 Digitalização de imagens para o Corel Print House=Scanning images into Corel Print House
+3 Melhorar a qualidade da imagem=Improving image quality
+3 Personalização de uma imagem=Customizing an image
+3 Seleção da resolução=Selecting a resolution
+3 Seleção do original=Selecting an original
+3 Seleção da profundidade de cor =Selecting a color depth
+1 Como...
+2 Usar recursos básicos
+3 Para importar um arquivo=To import a file>proc4
+3 Para exportar um arquivo Print House=To export a Print House file>proc4
+3 Para transmitir um projeto=To mail a project>proc4
+3 Para apresentar a barra de ferramentas Padrão=To display the Standard toolbar>proc4
+3 Para apresentar a barra de ferramentas Texto=To display the Text toolbar>proc4
+3 Para ter acesso à ajuda a partir de um quadro de diálogo=To access help from a dialog box>proc4
+3 Para ter acesso a um assistente a partir de um quadro de diálogo=To access a wizard from a dialog box>proc4
+3 Para usar o Assistente de Gravação=To use the Save Wizard>proc4
+3 Para usar o Assistente de Impressão=To use the Print Wizard>proc4
+3 Para usar o Assistente de Abertura=To use the Open Wizard>proc4
+3 Para usar o Assistente de Criação=To use the Create Wizard>proc4
+3 Para usar o Assistente de Lista de Nomes=To use the Namelist Wizard>proc4
+3 Para usar outros assistentes=To use the other wizards>proc4
+3 Para adicionar campos de uma Lista de Nomes ao seu projeto=To add fields from a Namelist to your project>proc4
+3 Para importar dados para uma Lista de Nomes=To import data into a Namelist>proc4
+3 Para criar dados no formato Separado por Tabs=To create data in the Tab Separated format>proc4
+3 Para modificar as definições padrão=To change the default settings>proc4
+3 Para retornar a um layout de página 85 x 11 padrão=To return to a standard 85 x 11 page layout
+2 Usar objetos do catálogo
+3 Para inserir um objeto Ilustração=To place a Clipart object>proc4
+3 Para editar um objeto Ilustração=To edit a Clipart object>proc4
+3 Para inserir um objeto Tela de Fundo=To place a Backdrop object>proc4
+3 Para editar um objeto Tela de Fundo=To edit a Backdrop object>proc4
+3 Para excluir um objeto Tela de Fundo=To delete a Backdrop object>proc4
+3 Para inserir um objeto Borda=To place a Border object>proc4
+3 Para redimensionar um objeto Borda=To resize a Border object>proc4
+3 Para inserir uma Frase=To place a Phrase>proc4
+3 Para inserir uma Foto=To place a Photograph>proc4
+3 Para usar um item do Caderno de Recortes=To use a Scrapbook item>proc4
+3 Para modificar a apresentação das listas de Catálogo=To change the display of Catalog lists>proc4
+3 Para utilizar os itens de catálogo do Print House em outros aplicativos=To use Print House clipart backdrops borders or photos in other applications>proc4
+2 Create shapes
+3 Para desenhar uma forma a mão livre=To draw a freehand shape>proc4
+3 Para desenhar uma linha reta=To draw a straight line>proc4
+3 Para desenhar um quadrado=To draw a square>proc4
+3 Para desenhar um retângulo=To draw a rectangle>proc4
+3 Para desenhar um círculo=To draw a circle>proc4
+3 Para desenhar uma elipse=To draw an ellipse>proc4
+3 Para desenhar um polígono=To draw a polygon>proc4
+3 Para desenhar uma estrela=To draw a star>proc4
+2 Usar tabelas
+3 Para desenhar uma tabela=To draw a table>proc4
+3 Para adicionar uma fileira a uma tabela=To add a row to a table>proc4
+3 Para adicionar uma coluna a uma tabela=To add a column to a table>proc4
+3 Para excluir uma fileira de uma tabela=To delete a row from a table>proc4
+3 Para excluir uma coluna de uma tabela=To delete a column from a table>proc4
+3 Para redimensionar uma célula de uma tabela=To resize a cell in a table>proc4
+2 Adicionar texto
+3 Para apresentar a barra de ferramentas Texto=To display the Text toolbar>proc4
+3 Para inserir texto artístico=To place artistic text>proc4
+3 Para inserir um parágrafo de texto=To place paragraph text>proc4
+3 Para modificar o texto existente=To change existing text>proc4
+3 Para modificar o estilo do texto=To change text style>proc4
+3 Para fazer a revisão ortográfica do seu projeto=To check the spelling in your project>proc4
+3 Para modificar o idioma da revisão ortográfica=To change the spell check language>proc4
+2 Selecionar objetos
+3 Para selecionar um objeto=To select an object>proc4
+3 Para selecionar vários objetos=To select multiple objects>proc4
+3 Para selecionar objetos com marcas de seleção=To marqueeselect objects>proc4
+3 Para selecionar todos os objetos=To select all objects>proc4
+3 Para cancelar a seleção de um objeto entre vários objetos selecionados =To deselect an object from several selected objects>proc4
+3 Para cancelar a seleção de todos os objetos=To deselect all objects>proc4
+2 Selecionar grupos
+3 Para selecionar um grupo de objetos=To select a group of objects>proc4
+3 Para selecionar um grupo de objetos com marcas de seleção=To marqueeselect a group of objects>proc4
+3 Para selecionar vários grupos=To select multiple groups>proc4
+3 Para selecionar um objeto de um grupo de objetos=To select an object from within a group of objects>proc4
+2 Agrupar e combinar objetos
+3 Para agrupar objetos=To group objects>proc4
+3 Para desagrupar objetos=To ungroup objects>proc4
+3 Para selecionar objetos individuais em um grupo=To select individual objects in a group>proc4
+3 Para selecionar um objeto em um grupo encapsulado=To select an object in a nested group>proc4
+3 Para combinar objetos separados=To combine separate objects>proc4
+3 Para separar objetos combinados=To separate combined objects>proc4
+2 Mover, copiar e excluir objetos
+3 Para posicionar um objeto na página=To position an object on the page>proc4
+3 Para mover um objeto com o mouse=To move an object using the mouse>proc4
+3 Para duplicar um objeto=To duplicate an object>proc4
+3 Para restringir o movimento de um objeto=To constrain an objects movement>proc4
+3 Para mover um objeto em intervalos regulares=To move an object in increments>proc4
+3 Para copiar e colar um objeto=To copy and paste an object>proc4
+3 Para cortar e colar um objeto=To cut and paste an object>proc4
+3 Para excluir um objeto=To delete an object>proc4
+2 Tamanho, rotação, sombreamento e inclinação de objetos
+3 Para modificar o tamanho de um objeto=To change the size of an object>proc4
+3 Para esticar um objeto=To stretch an object>proc4
+3 Para girar um objeto=To rotate an object>proc4
+3 Para inclinar um objeto=To skew an object>proc4
+3 Para adicionar uma sombra ao objeto=To add a shadow to an object>proc4
+2 Modificar o contorno dos objetos
+3 Para criar uma linha tracejada=To create a dashed line>proc4
+3 Para criar uma linha pontilhada ou com segmentos arredondados=To create a dotted line or a line with rounded line segments>proc4
+3 Para definir a forma dos cantos de um objeto=To set an objects corner shape>proc4
+3 Para definir a forma do final da linha de um objeto=To set an objects line cap shape>proc4
+3 Para definir as setas de uma linha=To set a lines arrowheads>proc4
+3 Para definir a espessura do contorno=To set outline width>proc4
+3 Para definir a cor do contorno=To set outline color>proc4
+3 Para copiar o contorno de um objeto para outro objeto=To copy an objects outline to another object>proc4
+2 Modificar a cor dos objetos
+3 Para preencher um objeto com uma cor sólida=To fill an object with a solid color>proc4
+3 Para preencher um objeto com um preenchimento gradiente=To fill an object with a gradient fill>proc4
+3 Para modificar a orientação de um preenchimento gradiente=To change the orientation of a gradient fill>proc4
+3 Para enfraquecer um objeto=To fade an object>proc4
+3 Para criar uma cor personalizada=To create a custom color>proc4
+3 Para remover o preenchimento de um objeto=To remove an objects Fill>proc4
+3 Para copiar o preenchimento de um objeto para outro objeto=To copy an objects fill to another object>proc4
+2 Modificar a forma dos objetos
+3 Modificar a forma dos retângulos, das elipses e dos polígonos
+4 Para arredondar os cantos de um retângulo ou quadrado=To round the corners of a rectangle or square>proc4
+4 Para arredondar os cantos de um retângulo ou quadrado usando a ferramenta Forma=To round the corners of a rectangle or square using the Shaper tool>proc4
+4 Para transformar uma elipse ou círculo em um arco ou cunha=To turn an ellipse or circle into an arc or pie wedge>proc4
+4 Para virar um objeto=To flip an object>proc4
+4 Para converter objetos em formas a mão livre=To convert objects to freehand shapes>proc4
+4 Para modificar a forma de uma foto=To change the shape of a photo>proc4
+3 Modificar as formas à mão livre
+4 Para selecionar os nós inicial e final de um objeto=To select the start or end node of an object>proc4
+4 Para selecionar um único nó ou segmento em um caminho=To select a single node or segment on a path>proc4
+4 Para selecionar vários nós=To select multiple nodes>proc4
+4 Para cancelar a seleção de um ou mais nós=To deselect one or more nodes>proc4
+4 Para dar forma a uma forma a mão livre movendo seus segmentos=To shape a freehand shape by moving its segments>proc4
+4 Para dar forma a uma forma a mão livre movendo seus nós=To shape a freehand shape by moving its nodes>proc4
+4 Para dar forma a uma forma a mão livre movendo vários nós de uma vez=To shape a freehand shape by moving several nodes at once>proc4
+4 Para dar forma a uma forma a mão livre movendo seus pontos de controle=To shape a freehand shape by moving its control points>proc4
+4 Para restringir o movimento de um nó ou ponto de controle=To constrain the movement of a node or control point>proc4
+4 Para adicionar nós a uma forma a mão livre=To add nodes to a freehand shape>proc4
+4 Para excluir um nó ou segmento de uma forma a mão livre=To delete a node or segment from a freehand shape>proc4
+4 Para ligar duas formas a mão livre=To_connect_two_freehand_shapes
+4 Para juntar dois nós em uma forma a mão livre=To_join_two_nodes_on_a_freehand_shape
+2 Modificar a ordem dos objetos
+3 Para enviar para frente=To send to front>proc4
+3 Para enviar para trás=To send to back>proc4
+3 Para avançar um nível=To move forward one level>proc4
+3 Para retroceder um nível=To move back one level>proc4
+2 Modificar a apresentação do trabalho
+3 Para apresentar seu trabalho em cor total=To display your work in full color>proc4
+3 Para apresentar seu trabalho como um livro de colorir=To display your work as a coloring book>proc4
+3 Para apresentar seu trabalho em branco e preto=To display your work in black and white>proc4
+2 Modificar visualização do trabalho
+3 Para reduzir o zoom=To zoom out>proc4
+3 Para aumentar o zoom em um objeto=To zoom in on an object>proc4
+3 Para ver a página inteira=To view the entire page>proc4
+3 Para ver a página anterior=To view the previous page>proc4
+3 Para ver a página seguinte=To view the next page>proc4
+2 Digitalizar imagens
+3 Para digitalizar imagens para o Print House=To scan images into Print House>proc4
+3 Para escolher uma origem de digitalização=To choose a scanning source>proc4
+2 Gravar e abrir o trabalho
+3 Para gravar um novo projeto=To save a new project>proc4
+3 Para gravar o seu projeto com um novo nome=To save your project under a new name>proc4
+3 Para abrir um arquivo=To open a file>proc4
+3 Para começar um novo projeto=To start a new project>proc4
+2 Imprimir o trabalho
+3 Para imprimir o seu trabalho=To print your work>proc4
+3 Para imprimir várias cópias=To print multiple copies>proc4
+3 Para imprimir o máximo possível em uma página=To print as many on a page as possible>proc4
+3 Para imprimir a cores=To print in color>proc4
+3 Para imprimir em tons de cinza=To print in grayscale>proc4
+3 Para imprimir no estilo livro de colorir=To print in coloring book style>proc4
+3 Para imprimir elementos gráficos complexos=To print complex graphics>proc4
+3 Para imprimir envelopes=To print envelopes
+3 Para modificar a impressora=To change printers>proc4
+3 Para definir o tamanho do papel=To set paper size>proc4
+3 Para definir a orientação do papel=To set paper orientation>proc4
+3 Para ajustar o seu desenho a uma única página=To fit your drawing to a single page>proc4
+3 Para usar o papel PaperDirect=To use PaperDirect paper>proc4
+3 Para realizar uma impressão mesclada=To perform a print merge>proc4
+2 Dobrar os cartões e folhetos
+3 Para dobrar um cartão ao meio=To fold a halffold card>proc4
+3 Para dobrar um cartão em quatro no comprimento=To fold a top quarterfold card>proc4
+3 Para dobrar um cartão em quatro na largura=To fold a side quarterfold card>proc4
+3 Para dobrar um folheto de três partes no padrão Z=To fold a threepanel brochure in the Z pattern>proc4
+3 Para dobrar um folheto de três partes no padrão normal=To fold a threepanel brochure in the regular pattern>proc4
+1 Referência
+2 Atalhos
+3 Teclas de atalho de comandos de menu=Menu command shortcut keys
+3 Teclas de atalho da Caderneta=Notebook shortcut keys
+3 Teclas de atalho da Caixa de Ferramentas e da Barra de Propriedades=Toolbox and Property Bar shortcut keys
+1 Glossário
+2 Termos do Glossário=a
+

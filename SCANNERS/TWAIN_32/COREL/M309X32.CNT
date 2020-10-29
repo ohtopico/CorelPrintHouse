@@ -1,0 +1,38 @@
+:Base m309x32.hlp>proc4
+:Title Corel TWAIN 2.0
+:Index Corel TWAIN=crltwn32.hlp
+:Link crltwn32.hlp
+1 Funções do Corel TWAIN
+2 Sobre o Corel TWAIN=twain_over@crltwn32.hlp>main
+2 Conceitos Básicos
+3 Configurar uma Digitalização
+4 Selecionar um Original =select_scr@crltwn32.hlp>main
+4 Selecionar uma Resolução=select_res@crltwn32.hlp>main
+4 Selecionar uma Intensidade da Cor=select_color@crltwn32.hlp>main
+3 Tabalhar com Imagens Digitalizadas
+4 Adaptar uma Imagem=custom_scan@crltwn32.hlp>main
+4 Melhorar a Qualidade das Imagens=improve_image@crltwn32.hlp>main
+2 Opções de Digitalização
+3 Página de Layout=iddh_layout@crltwn32.hlp>main
+3 Página Adaptada=iddh_tab3@crltwn32.hlp>main
+3 Página de Imagem=iddh_color1>main
+3 Ajustar Página=iddh_ipcpage2>main
+3 Sobre a Página=iddh_tab4@crltwn32.hlp>main
+1 Como..
+2 Digitalizar Imagens
+3 Para selecionar uma fonte=setup_source_howto@crltwn32.hlp>proc4
+3 Para pré-visualizar uma imagem=preview_new_howto@crltwn32.hlp>proc4
+3 Para digitalizar uma imagem=scan_image_howto@crltwn32.hlp>proc4
+3 Para digitalizar uma seleção=scan_selection_howto@crltwn32.hlp>proc4
+3 Para digitalizar um grupo de imagens=scan_group_howto@crltwn32.hlp>proc4
+2 Editar Imagens Digitalizadas
+3 Para copiar uma imagem para a Àrea de Transferência=edit_copy_howto@crltwn32.hlp>proc4
+3 Para copiar uma seleção para a Área de Transferência=edit_selection_howto@crltwn32.hlp>proc4
+3 Para rodar uma imagem=edit_rotate_howto@crltwn32.hlp>proc4
+3 Para salvar uma imagem =edit_save_howto@crltwn32.hlp>proc4
+3 Para salvar uma seleção=edit_save_selection_howto@crltwn32.hlp>proc4
+2 Melhorar as Imagens Digitalizadas
+3 Para ajustar o limiar=enhance_threshold_fujim_howto
+3 Para ajustar o brilho e o contraste=enhance_cb_fujim_howto
+3 Para ajustar a intensidade da cor=enhance_colordepth_howto@crltwn32.hlp>proc4
+3 Para ajustar a resolução=enhance_resolution_howto@crltwn32.hlp>proc4

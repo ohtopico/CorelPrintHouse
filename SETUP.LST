@@ -1,0 +1,70 @@
+[Params]
+	WndTitle   = CorelDRAW! Setup
+	WndMess    = Initializing Setup - One moment please.
+
+[Files]
+	corel.inf	= corel.inf
+	setdata.ini 	= setdata.ini
+	setflt.ini		= seflt.ini
+	mscomstf.dll	= mscomstf.dll
+	msinsstf.dll	= msinsstf.dll
+	msuilstf.dll	= msuilstf.dll
+	msshlstf.dll	= msshlstf.dll
+	mscuistf.dll	= mscuistf.dll
+	msdetstf.dll	= msdetstf.dll
+
+[ExeOptions]
+	SETUP			= CN
+	;MSSETUP		= /S
+	LOGFILE		= SETUP.LOG
+	TMPDIR		= ~CORELPH
+	
+[TemporaryFiles]
+	TMPDIR = ~CORELPH
+	S1 = SETUP\CORSETUP.EXE 
+	D1 = CORSETUP.EXE
+	S2 = SETUP\MSCUISTF.DLL 
+	D2 = MSCUISTF.DLL
+	S3 = SETUP\MSCOMSTF.DLL 
+	D3 = MSCOMSTF.DLL
+	S4 = SETUP\MSDETSTF.DLL 
+	D4 = MSDETSTF.DLL
+	S5 = SETUP\MSINSSTF.DLL 
+	D5 = MSINSSTF.DLL
+	S6 = SETUP\MSSHLSTF.DLL 
+	D6 = MSSHLSTF.DLL
+	S7 = SETUP\MSUILSTF.DLL 
+	D7 = MSUILSTF.DLL
+	S8 = SETUP\SETDATA.INI 
+	D8 = SETDATA.INI
+	S9 = COREL.INF 
+	D9 = COREL.INF
+	S10 = SETUP.LST
+	D10 = SETUP.LST
+	S11 = SETUP\sb256.bmp
+	D11 = sb256.bmp
+	S12 = SETUP\SB16.BMP
+	D12 = sb16.bmp
+	S13 = SETUP\VERSION.DLL
+	D13 = VERSION.DLL
+	D14 = SETUP.LOG
+ 	D15 = MFCANS32.dll
+ 	D16 = CTL3D32.DLL
+
+[NTFiles]
+	SW1 = REDIST\REDIST32\MFCANS32.dll
+	DW1 = MFCANS32.dll
+	SW2 = REDIST\REDISTNT\CTL3D32.DLL
+	DW2 = CTL3D32.DLL
+	
+[95Files]
+	SW1 = REDIST\REDIST32\MFCANS32.dll
+	DW1 = MFCANS32.dll
+	SW2 = REDIST\REDIST95\CTL3D32.DLL
+	DW2 = CTL3D32.DLL
+
+[31Files]
+	SW1 = REDIST\REDIST31\MFCANS32.dll
+	DW1 = MFCANS32.dll
+	SW2 = REDIST\REDIST31\CTL3D32.DLL
+	DW2 = CTL3D32.DLL

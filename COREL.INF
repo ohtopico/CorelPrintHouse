@@ -1,0 +1,476 @@
+[Source Media Descriptions]
+	"1", "Corel Setup - Copying Files", "corel.inf", "."
+
+[Default File Settings]
+"STF_BACKUP"     = ""
+"STF_COPY"       = "YES"
+"STF_DECOMPRESS" = "YES"
+"STF_OVERWRITE"  = "ALWAYS"
+"STF_READONLY"   = ""
+"STF_ROOT"       = "YES"
+"STF_SETTIME"    = "YES"
+"STF_TIME"       = "0"
+"STF_VITAL"      = ""
+
+[AGFA]
+	1, scanners\twain_32\corel\agfa32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1608,,,,,
+	1, scanners\twain_32\corel\agfa32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 552448,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\agfa32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 15193,,,,,
+	1, scanners\twain_32\corel\agfa32s.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[AGFA16]
+	1, scanners\twain_16\corel\agfass.dll,,,, 1995-12-12,,, OLDER,,,,,,, 279376,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\agfass.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 20198,,,,,
+	1, scanners\twain_16\corel\agfassr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[APHelp]
+	1, programs\corelap.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 123028,,,,,
+	1, programs\corelap.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 1085010,,,,,
+
+[CommonConfig]
+	1, programs\corelapp.ini,,,, 1996-02-22,,, NEVER,,,,,,, 827,,,,,
+	1, programs\coreltxt.ini,,,, 1996-02-22,,, NEVER,,,,,,, 827,,,,,
+
+[CommonCustom]
+	1, custom\coreldrw.dot,,,, 1996-02-22,,, OLDER,,,,,,, 830,,,,,
+	1, custom\coreldrw.end,,,, 1996-02-22,,, OLDER,,,,,,, 12152,,,,,
+	1, custom\fills.dat,,,, 1996-02-22,,, OLDER,,,,,,, 3137,,,,,
+	1, custom\outlines.dat,,,, 1996-03-26,,, OLDER,,,,,,, 6574,,,,,
+	1, custom\panose.bin,,,, 1996-02-22,,, OLDER,,,,,,, 2945,,,,,
+	1, custom\phrases.dat,,,, 1996-03-28,,, OLDER,,,,,,, 162767,,,,,
+	1, custom\scrapbok.dat,,,, 1996-02-22,,, OLDER,,,,,,, 9426,,,,,
+	1, custom\shadowsd.dat,,,, 1996-02-22,,, OLDER,,,,,,, 1333,,,,,
+	1, custom\padrao.lst,,,, 1996-02-22,,, OLDER,,,,,,, 140,,,,,
+	1, custom\textstyl.dat,,,, 1996-03-26,,, OLDER,,,,,,, 30639,,,,,
+
+[CommonRedist31]
+	1, redist\redist31\ctl3d32.dll,,,, 1995-04-04,,, OLDER,,,,,,, 26112, SYSTEM,,, 2.29.0.0,
+	1, redist\redist31\mfcans32.dll,,,, 1995-05-22,,, OLDER,,,,,,, 149504, SYSTEM,,, 3.2.1.0,
+	1, redist\redist31\mfcuia32.dll,,,, 1995-05-22,,, OLDER,,,,,,, 108032, SYSTEM,,, 2.32.1.0,
+	1, redist\redist31\msvcrt20.dll,,,, 1995-01-20,,, OLDER,,,,,,, 244736, SYSTEM,,, 2.10.0.0,
+
+[CommonRedist32]
+	1, redist\redist32\mfcans32.dll,,,, 1995-05-19,,, OLDER,,,,,,, 133904,,,, 3.2.1.0,
+	1, redist\redist32\mfcuia32.dll,,,, 1995-05-22,,, OLDER,,,,,,, 108032,,,, 2.32.1.0,
+	1, redist\redist32\msvcrt20.dll,,,, 1995-02-23,,, OLDER,,,,,,, 253952,,,, 2.11.0.0,
+
+[CommonRedist95]
+	1, redist\redist95\ctl3d32.dll,,,, 1993-11-23,,, OLDER,,,,,,, 28672,,,, 2.0.5.0,
+
+[CommonRedistNT]
+	1, redist\redistnt\ctl3d32.dll,,,, 1995-04-04,,, OLDER,,,,,,, 27136,,,, 2.29.0.0,
+
+[CommonScanner16]
+	1, scanners\twain_16\corel\crl_twn.dll,,,, 1995-12-12,,, OLDER,,,,,,, 543856,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\crl_twn.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 48938,,,,,
+
+[CommonScanner32]
+	1, scanners\twain_32\corel\crltwn32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1563,,,,,
+	1, scanners\twain_32\corel\crltwn32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 839168,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\crltwn32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 33905,,,,,
+
+[DanDict]
+	1, data\hdanis10.dat,,,, 1995-08-18,,,,,,,,,, 76928,,,,,
+	1, data\pdn2s152.dat,,,, 1995-08-18,,,,,,,,,, 438784,,,,,
+
+[Data]
+	1, data\ace.tpl,,,, 1996-02-22,,,,,,,,,, 639,,,,,
+	1, data\acepin.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\averpin.tpl,,,, 1996-02-22,,,,,,,,,, 5967,,,,,
+	1, data\avery.tpl,,,, 1996-02-22,,,,,,,,,, 5301,,,,,
+	1, data\avery_dm.tpl,,,, 1996-02-22,,,,,,,,,, 1009,,,,,
+	1, data\averydsk.tpl,,,, 1996-02-22,,,,,,,,,, 195,,,,,
+	1, data\averyend.tpl,,,, 1996-02-22,,,,,,,,,, 1897,,,,,
+	1, data\averyger.tpl,,,, 1996-02-22,,,,,,,,,, 2267,,,,,
+	1, data\averyink.tpl,,,, 1996-02-22,,,,,,,,,, 639,,,,,
+	1, data\averyuk.tpl,,,, 1996-02-22,,,,,,,,,, 1971,,,,,
+	1, data\blick.tpl,,,, 1996-02-22,,,,,,,,,, 195,,,,,
+	1, data\catalog.cfg,,,, 1996-02-22,,,,,,,,,, 4446,,,,,
+	1, data\coreldrw.ink,,,, 1996-02-22,,,,,,,,,, 33989,,,,,
+	1, data\crwizrd.cfg,,,, 1996-03-21,,,,,,,,,, 36395,,,,,
+	1, data\env.tpl,,,, 1996-02-22,,,,,,,,,, 195,,,,,
+	1, data\envelope.tpl,,,, 1996-02-22,,,,,,,,,, 417,,,,,
+	1, data\hermacop.tpl,,,, 1996-02-22,,,,,,,,,, 1083,,,,,
+	1, data\hermaend.tpl,,,, 1996-02-22,,,,,,,,,, 8483,,,,,
+	1, data\hermaink.tpl,,,, 1996-02-22,,,,,,,,,, 935,,,,,
+	1, data\hermalsr.tpl,,,, 1996-02-22,,,,,,,,,, 2785,,,,,
+	1, data\leitzend.tpl,,,, 1996-02-22,,,,,,,,,, 269,,,,,
+	1, data\leitzlsr.tpl,,,, 1996-02-22,,,,,,,,,, 195,,,,,
+	1, data\longname.cfg,,,, 1996-03-12,,,,,,,,,, 29522,,,,,
+	1, data\maco.tpl,,,, 1996-02-22,,,,,,,,,, 6633,,,,,
+	1, data\macopin.tpl,,,, 1996-02-22,,,,,,,,,, 1823,,,,,
+	1, data\meyers.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\nashua.tpl,,,, 1996-02-22,,,,,,,,,, 343,,,,,
+	1, data\nashua_p.tpl,,,, 1996-02-22,,,,,,,,,, 2193,,,,,
+	1, data\nebs.tpl,,,, 1996-02-22,,,,,,,,,, 491,,,,,
+	1, data\nebspin.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\panose.dat,,,, 1996-02-22,,,,,,,,,, 281504,,,,,
+	1, data\printhse.cpl,,,, 1996-02-22,,,,,,,,,, 6143,,,,,
+	1, data\prolog60.ps,,,, 1996-02-22,,,,,,,,,, 25274,,,,,
+	1, data\pu_laser.tpl,,,, 1996-02-22,,,,,,,,,, 713,,,,,
+	1, data\pu_pin.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\qprompt.cfg,,,, 1996-02-22,,,,,,,,,, 3953,,,,,
+	1, data\selotape.tpl,,,, 1996-02-22,,,,,,,,,, 343,,,,,
+	1, data\sigelcrd.tpl,,,, 1996-02-22,,,,,,,,,, 121,,,,,
+	1, data\stamp_dm.tpl,,,, 1996-02-22,,,,,,,,,, 713,,,,,
+	1, data\stamplsr.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\tenzalsr.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\tenzapin.tpl,,,, 1996-02-22,,,,,,,,,, 417,,,,,
+	1, data\ual.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\ualpin.tpl,,,, 1996-02-22,,,,,,,,,, 787,,,,,
+	1, data\umschlag.tpl,,,, 1996-02-22,,,,,,,,,, 343,,,,,
+	1, data\zweckend.tpl,,,, 1996-02-22,,,,,,,,,, 6707,,,,,
+	1, data\zwecklsr.tpl,,,, 1996-02-22,,,,,,,,,, 2933,,,,,
+
+[DefaultFonts]
+"Ad Lib" = 1, fonts\ttf\adlibn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 51320,,,,,
+"AlgerianD" = 1, fonts\ttf\algerinn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 79460,,,,,
+"Americana Extra Bold Condensed" = 1, fonts\ttf\amrcaxbc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 52184,,,,,
+"Amerigo" = 1, fonts\ttf\amrigon.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 47408,,,,,
+"American Typewriter Bold" = 1, fonts\ttf\amrtypeb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 64768,,,,,
+"Architecture" = 1, fonts\ttf\architrn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 32764,,,,,
+"Avant Garde Medium" = 1, fonts\ttf\avgardm.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37432,,,,,
+"Avant Garde Book" = 1, fonts\ttf\avgardn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 39160,,,,,
+"Balloon Bold" = 1, fonts\ttf\balonb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 58164,,,,,
+"Bauhaus Medium" = 1, fonts\ttf\bauhausm.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 38936,,,,,
+"Bedrock" = 1, fonts\ttf\bedrockn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 30916,,,,,
+"Belwe Bold" = 1, fonts\ttf\belweb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 49132,,,,,
+"Benguiat Bold" = 1, fonts\ttf\benguiab.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 50480,,,,,
+"Bernhard Fashion" = 1, fonts\ttf\bnhrdfan.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 48616,,,,,
+"Bank Gothic Medium" = 1, fonts\ttf\bnkgothm.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 35908,,,,,
+"Bodoni Bold Condensed" = 1, fonts\ttf\bodonibc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 45796,,,,,
+"Bookman ITC Demi" = 1, fonts\ttf\bookmnd.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 50224,,,,,
+"Broadway" = 1, fonts\ttf\brdwayn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 44960,,,,,
+"Bremen Bold" = 1, fonts\ttf\bremenb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 45296,,,,,
+"Brush Script" = 1, fonts\ttf\brushscn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 53296,,,,,
+"Busorama Medium" = 1, fonts\ttf\busoramm.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 30984,,,,,
+"Caslon Bold" = 1, fonts\ttf\caslonb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 48864,,,,,
+"CastleT" = 1, fonts\ttf\castlen.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 52700,,,,,
+"Century 725 Condensed" = 1, fonts\ttf\cen725c.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 48156,,,,,
+"Century Schoolbook Bold" = 1, fonts\ttf\censbkb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 51380,,,,,
+"Common Bullets" = 1, fonts\ttf\combuln.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 22088,,,,,
+"Compacta Black" = 1, fonts\ttf\compctak.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37480,,,,,
+"Compacta Light" = 1, fonts\ttf\compctal.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 36268,,,,,
+"Commercial Script" = 1, fonts\ttf\comscrtn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 64196,,,,,
+"Cooper Medium" = 1, fonts\ttf\cooperm.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 56760,,,,,
+"Copperplate Gothic Heavy" = 1, fonts\ttf\copgothh.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 48332,,,,,
+"Copperplate Gothic" = 1, fonts\ttf\copgothn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 47584,,,,,
+"CosmicTwo" = 1, fonts\ttf\cosmic2n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 34656,,,,,
+"Dauphin" = 1, fonts\ttf\dauphinn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 43792,,,,,
+"DextorD" = 1, fonts\ttf\dextorn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 58256,,,,,
+"DiskusDMed" = 1, fonts\ttf\diskusm.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 55256,,,,,
+"Dom Bold" = 1, fonts\ttf\domb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 58064,,,,,
+"Dom Casual" = 1, fonts\ttf\domcasn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 60680,,,,,
+"Embassy" = 1, fonts\ttf\embassyn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 57784,,,,,
+"English 157" = 1, fonts\ttf\engl157n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 52192,,,,,
+"Eras Bold" = 1, fonts\ttf\erasb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 41728,,,,,
+"Eras ContourITC-Normal" = 1, fonts\ttf\erascntn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 84500,,,,,
+"Exotic 350 Demi-Bold" = 1, fonts\ttf\exo350db.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 35384,,,,,
+"FlamencoD" = 1, fonts\ttf\flamenn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 60468,,,,,
+"Freestyle ScriptITC-Bold" = 1, fonts\ttf\frestysb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 65944,,,,,
+"Freehand 575" = 1, fonts\ttf\frhnd575.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 51084,,,,,
+" Franklin Gothic ITC Heavy" = 1, fonts\ttf\frkgoth.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 40232,,,,,
+"Formal Script 421" = 1, fonts\ttf\frms421n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 51628,,,,,
+"Friz Quadrata Bold" = 1, fonts\ttf\frzquadb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 46684,,,,,
+"Friz Quadrata" = 1, fonts\ttf\frzquadn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 46064,,,,,
+"Futura Bold" = 1, fonts\ttf\futurab.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 38868,,,,,
+"Futura Light" = 1, fonts\ttf\futural.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37432,,,,,
+"Futura Medium Condensed" = 1, fonts\ttf\futuramc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 36336,,,,,
+"Futura Book" = 1, fonts\ttf\futuran.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37688,,,,,
+"Futura Extra Black" = 1, fonts\ttf\futuraxk.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 40028,,,,,
+"Futura Extra Black Condensed" = 1, fonts\ttf\futurxkc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 40988,,,,,
+"Garamond ITC Bold" = 1, fonts\ttf\garamdb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 64676,,,,,
+"Geometric 231" = 1, fonts\ttf\geo231n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37620,,,,,
+"Geometric Slabserif 703 Bold Condensed" = 1, fonts\ttf\geo703bc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 39944,,,,,
+"Handel Gothic" = 1, fonts\ttf\handgotn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 34340,,,,,
+"Humanist 521" = 1, fonts\ttf\hum521n.ttf,,,, 1993-03-29,,, NEVER,,,,,,, 38124,,,,,
+"Kids" = 1, fonts\ttf\kidsn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 55204,,,,,
+"Liberty" = 1, fonts\ttf\libertyn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 64940,,,,,
+"Lithograph Bold" = 1, fonts\ttf\lithogrb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 49152,,,,,
+"Lydian" = 1, fonts\ttf\lydianv.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 53388,,,,,
+"MicrogrammaDBolExt" = 1, fonts\ttf\microgbe.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 55756,,,,,
+"MotterFemD" = 1, fonts\ttf\mottrfmn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 64472,,,,,
+"New Baskerville Bold" = 1, fonts\ttf\newbaskb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 53552,,,,,
+"New Baskerville" = 1, fonts\ttf\newbaskn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 55248,,,,,
+"Nuptial" = 1, fonts\ttf\nuptualn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 56080,,,,,
+"Parisian" = 1, fonts\ttf\parisnn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 47344,,,,,
+"Park Avenue" = 1, fonts\ttf\parkaven.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 51728,,,,,
+"President" = 1, fonts\ttf\presdntn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 38140,,,,,
+"Poster Bodoni" = 1, fonts\ttf\pstrbodn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 51216,,,,,
+"Revue" = 1, fonts\ttf\revuen.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37520,,,,,
+"Shelley Allegro" = 1, fonts\ttf\shlyalln.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 69456,,,,,
+"Shelley Volante" = 1, fonts\ttf\shlyvoln.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 60940,,,,,
+"Souvenir Light" = 1, fonts\ttf\souvnrl.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 55764,,,,,
+"Staccato 222" = 1, fonts\ttf\stac222n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 126680,,,,,
+"StopD" = 1, fonts\ttf\stopn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 41480,,,,,
+"Swiss 721 Bold Condensed" = 1, fonts\ttf\swz721bc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 37884,,,,,
+"Swiss 721 Black" = 1, fonts\ttf\swz721k.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 36460,,,,,
+"Swiss 721 Black Condensed" = 1, fonts\ttf\swz721kc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 38696,,,,,
+"Swiss 721" = 1, fonts\ttf\swz721n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 36548,,,,,
+"Swiss 721 Thin" = 1, fonts\ttf\swz721t.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 35264,,,,,
+"Swiss 921" = 1, fonts\ttf\swz921n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 39656,,,,,
+"Technical" = 1, fonts\ttf\technicn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 39852,,,,,
+"Tiffany Heavy" = 1, fonts\ttf\tifanyh.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 55880,,,,,
+"Tiffany Light" = 1, fonts\ttf\tifanyl.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 59696,,,,,
+"VAG Rounded" = 1, fonts\ttf\vagron.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 43988,,,,,
+"Van DijkITC-Bold" = 1, fonts\ttf\vandijkb.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 38308,,,,,
+"Viking" = 1, fonts\ttf\vikingn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 52552,,,,,
+"VivaldiD" = 1, fonts\ttf\vivaldin.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 64240,,,,,
+"VladimirScrD" = 1, fonts\ttf\vladmrsn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 63068,,,,,
+"Wedding Text" = 1, fonts\ttf\wedtxtn.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 76348,,,,,
+"Zapf Chancery Medium Italic" = 1, fonts\ttf\zafchami.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 57492,,,,,
+"Zapf Calligraphic 801 Bold" = 1, fonts\ttf\zcal801b.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 57536,,,,,
+"Zapf Calligraphic 801" = 1, fonts\ttf\zcal801n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 54416,,,,,
+"Zapf Humanist 601 Bold" = 1, fonts\ttf\zhum601b.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 50100,,,,,
+"Zapf Humanist 601" = 1, fonts\ttf\zhum601n.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 49988,,,,,
+"Zurich Black Extended" = 1, fonts\ttf\zurchk.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 40896,,,,,
+"Zurich Extra Black" = 1, fonts\ttf\zurchxc.ttf,,,, 1995-08-18,,, NEVER,,,,,,, 38296,,,,,
+
+[DrawDraw]
+	1, programs\corelprn.ini,,,, 1996-02-22,,, OLDER,,,,,,, 1613,,,,,
+	1, programs\printhse.ini,,,, 1996-02-22,,,,,,,,,, 66,,,,,
+	1, programs\userdata.ini,,,, 1996-03-13,,,,,,,,,, 99,,,,,
+
+[DrawMain]
+	1, programs\cdrtpr60.dll,,,, 1996-03-27,,, OLDER,,,,,,, 329728,,,, 6.0.117.0,
+	1, programs\cmslibsf,,,, 1996-02-22,,,,,,,,,, 29262,,,,,
+	1, programs\iejpeg60.dll,,,, 1996-03-27,,, OLDER,,,,,,, 150528,,,, 6.0.176.0,
+	1, programs\pcdlib32.dll,,,, 1996-02-22,,, OLDER,,,,,,, 116736,,,,,
+	1, programs\phintl.dll,,,, 1996-04-17,,, OLDER,,,,,,, 1851392,,,,,
+	1, programs\printhse.cnt,,,, 1996-04-10,,,,,,,,,, 13862,,,,,
+	1, programs\printhse.exe,,,, 1996-04-17,,, OLDER,,,,,,, 4330496,,,, 1.0.0.1,
+	1, programs\printhse.hlp,,,, 1996-04-16,,,,,,,,,, 679241,,,,,
+	1, programs\printwiz.exe,,,, 1996-04-17,,, OLDER,,,,,,, 375296,,,, 6.0.169.0,
+
+[DutDict]
+	1, data\hdutch11.dat,,,, 1995-08-18,,,,,,,,,, 56974,,,,,
+	1, data\pdu1m111.dat,,,, 1995-08-18,,,,,,,,,, 1063424,,,,,
+
+[EngDict]
+	1, data\hengli16.dat,,,, 1996-02-22,,,,,,,,,, 65597,,,,,
+	1, data\pen3m111.dat,,,, 1996-02-22,,,,,,,,,, 845312,,,,,
+
+[FilterConfig]
+	1, programs\corelflt.ini,,,, 1996-04-10,,, NEVER,,,,,,, 60357,,,,,
+
+[FilterConfig31]
+	1, programs\corflt.ini,,,, 1996-04-17,,, NEVER,,, Corelflt.ini,,,, 60329,,,,,
+
+[Filters]
+	1, filters\iebmp60.flt,,,, 1996-03-27,,, OLDER,,,,,,, 155648,,,,,
+	1, filters\iecmx60.flt,,,, 1996-03-27,,, OLDER,,,,,,, 45056,,,,,
+	1, filters\iegif60.flt,,,, 1996-03-27,,, OLDER,,,,,,, 199168,,,,,
+	1, filters\iejpg60.flt,,,, 1996-03-27,,, OLDER,,,,,,, 170496,,,,,
+	1, filters\iepcd60.flt,,,, 1996-04-17,,, OLDER,,,,,,, 1168384,,,,,
+	1, filters\iepcx60.flt,,,, 1996-03-27,,, OLDER,,,,,,, 40448,,,,,
+	1, filters\ietif60.flt,,,, 1996-03-27,,, OLDER,,,,,,, 210944,,,,,
+	1, filters\iewmf60.flt,,,, 1996-04-17,,, OLDER,,,,,,, 55808,,,,,
+	1, filters\iewpg60.flt,,,, 1996-04-17,,, OLDER,,,,,,, 114176,,,,,
+
+[FinnDict]
+	1, data\hfinni14.dat,,,, 1995-08-18,,,,,,,,,, 40975,,,,,
+	1, data\pfn2s111.dat,,,, 1995-08-18,,,,,,,,,, 449024,,,,,
+
+[FrenDict]
+	1, data\hfrenc05.dat,,,, 1995-08-18,,,,,,,,,, 26152,,,,,
+	1, data\pfr1m111.dat,,,, 1995-08-18,,,,,,,,,, 1200640,,,,,
+
+[GermDict]
+	1, data\hgerma06.dat,,,, 1995-08-18,,,,,,,,,, 51765,,,,,
+	1, data\pgr1m111.dat,,,, 1995-08-18,,,,,,,,,, 1213440,,,,,
+
+[HPScanjet]
+	1, scanners\twain_32\corel\hpsj32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1456,,,,,
+	1, scanners\twain_32\corel\hpsj32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 360960,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\hpsj32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 13389,,,,,
+	1, scanners\twain_32\corel\hpsj32r.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[HPScanjet16]
+	1, scanners\twain_16\corel\hpsj.dll,,,, 1995-12-12,,, OLDER,,,,,,, 245200,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\hpsj.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 16559,,,,,
+	1, scanners\twain_16\corel\hpsjr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[ItalDict]
+	1, data\hitali09.dat,,,, 1995-08-18,,,,,,,,,, 24328,,,,,
+	1, data\pit1m140.dat,,,, 1995-08-18,,,,,,,,,, 1033216,,,,,
+
+[Main]
+	1, readmeph.cnt,,,, 1996-02-06,,,,,,,,,, 780,,,,,
+	1, readmeph.hlp,,,, 1996-02-07,,,,,,,,,, 16699,,,,,
+
+[MicrotekSM]
+	1, scanners\twain_32\corel\mctek32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1613,,,,,
+	1, scanners\twain_32\corel\mctek32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 376832,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\mctek32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 15139,,,,,
+	1, scanners\twain_32\corel\mctek32r.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[MicrotekSM16]
+	1, scanners\twain_16\corel\mctek.dll,,,, 1995-12-12,,, OLDER,,,,,,, 262656,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\mctek.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 19874,,,,,
+	1, scanners\twain_16\corel\mctekr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[NetInst]
+	1, autorun.exe,,,, 1996-03-21,,, OLDER,,,,,,, 18432,,,,,
+	1, autorun.inf,,,, 1996-04-10,,, OLDER,,,,,,, 739,,,,,
+	1, corel.inf,,,, 1996-04-17,,,,,,,,,, 26839,,,,,
+	1, h2fold.hlp,,,, 1995-11-03,,,,,,,,,, 17719503,,,,,
+	1, intro.exe,,,, 1995-11-10,,, OLDER,,,,,,, 200192,,,,,
+	1, setup.exe,,,, 1996-04-10, !DECOMPRESS,,,,,,,,, 12480,,,,,
+	1, setup.lst,,,, 1996-04-15,,,,,,,,,, 1516,,,,,
+
+[NorwDict]
+	1, data\hnorwe13.dat,,,, 1995-08-18,,,,,,,,,, 102832,,,,,
+	1, data\pno2s120.dat,,,, 1995-08-18,,,,,,,,,, 778752,,,,,
+
+[PH31Reg]
+	1, programs\ph31.reg,,,, 1996-04-09,,,,,,,,,, 483,,,,,
+
+[PH32Reg]
+	1, programs\printhse.reg,,,, 1996-04-16,,, OLDER,,,,,,, 996,,,,,
+
+[PortDict]
+	1, data\hportu12.dat,,,, 1995-08-18,,,,,,,,,, 74551,,,,,
+	1, data\ppo3m140.dat,,,, 1995-08-18,,,,,,,,,, 844288,,,,,
+
+[RichoFS]
+	1, scanners\twain_32\corel\fs232.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1449,,,,,
+	1, scanners\twain_32\corel\fs232.dll,,,, 1996-03-21,,, OLDER,,,,,,, 351744,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\fs232.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 13291,,,,,
+	1, scanners\twain_32\corel\ricoh32r.ds,,,, 1996-03-21,,, OLDER,,,,,,, 17920,,,,,
+
+[RichoFS16]
+	1, scanners\twain_16\corel\ricohfs.dll,,,, 1995-12-12,,, OLDER,,,,,,, 256784,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\ricohfs.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 15988,,,,,
+	1, scanners\twain_16\corel\ricohfsr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[ScannerRedist]
+	1, scanners\redist\twain.dll,,,, 1995-09-15,,, OLDER,,,,,,, 87328,,,, 1.6.0.1,
+	1, scanners\redist\twain_32.dll,,,, 1995-09-15,,,,,,,,,, 77312,,,, 1.6.0.1,
+	1, scanners\redist\twunk_16.exe,,,, 1995-09-15,,,,,,,,,, 48560,,,, 1.6.0.1,
+	1, scanners\redist\twunk_32.exe,,,, 1995-09-15,,,,,,,,,, 69632,,,, 1.6.0.1,
+
+[ScannerRedist16]
+	1, scanners\redist31\crlasp16.dll,,,, 1995-07-19,,, OLDER,,,,,,, 53632,,,,,
+
+[ScannerRedist95]
+	1, scanners\redist95\crlasp95.dll,,,, 1995-12-13,,, OLDER,,,,,,, 150016,,,,,
+
+[ScannersES600C]
+	1, scanners\twain_32\corel\epson32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1463,,,,,
+	1, scanners\twain_32\corel\epson32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 355328,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\epson32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 12785,,,,,
+	1, scanners\twain_32\corel\epson32s.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[ScannersES600C16]
+	1, scanners\twain_16\corel\epson.dll,,,, 1995-12-12,,, OLDER,,,,,,, 199248,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\epson.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 15334,,,,,
+	1, scanners\twain_16\corel\epsonr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[ScannersFuj]
+	1, scanners\twain_32\corel\fujsp32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1397,,,,,
+	1, scanners\twain_32\corel\fujsp32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 348160,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\fujsp32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 12661,,,,,
+	1, scanners\twain_32\corel\fujsp32s.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[ScannersFuj16]
+	1, scanners\twain_16\corel\fujsp.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+	1, scanners\twain_16\corel\fujsp10.dll,,,, 1995-12-12,,, OLDER,,,,,,, 209472,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\fujsp10.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 15067,,,,,
+
+[ScannersFujMid]
+	1, scanners\twain_32\corel\m309x32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1467,,,,,
+	1, scanners\twain_32\corel\m309x32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 353280,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\m309x32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 16224,,,,,
+	1, scanners\twain_32\corel\m309x32r.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[ScannersFujMid16]
+	1, scanners\twain_16\corel\m309xx.dll,,,, 1995-12-13,,, OLDER,,,,,,, 234576,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\m309xx.hlp,,,, 1995-12-07,,, OLDER,,,,,,, 20886,,,,,
+	1, scanners\twain_16\corel\m309xxr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[ScannersNTConfig]
+	1, scanners\winnt\scanners.reg,,,, 1995-10-18,,, OLDER,,,,,,, 142,,,,,
+
+[ScannersNTWin]
+	1, scanners\winnt\crllyrnt.dll,,,, 1995-11-08,,, OLDER,,,,,,, 151552,,,, 2.5.0.0,
+
+[ScannersNTWinSys]
+	1, scanners\winnt\crlscsi.sys,,,, 1995-11-07,,, OLDER,,,,,,, 6144,,,,,
+
+[ScannersNikon]
+	1, scanners\twain_32\corel\nikcs32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 2177,,,,,
+	1, scanners\twain_32\corel\nikcs32s.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+	1, scanners\twain_32\corel\nikncs32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 388096,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\nikncs32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 19843,,,,,
+
+[ScannersNikon16]
+	1, scanners\twain_16\corel\nikcs1r.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+	1, scanners\twain_16\corel\nikoncs1.dll,,,, 1995-12-12,,, OLDER,,,,,,, 265904,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\nikoncs1.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 30329,,,,,
+
+[ScannersPCDDemo]
+	1, scanners\twain_32\corel\pcd32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1469,,,,,
+	1, scanners\twain_32\corel\pcd32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 359936,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\pcd32.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+	1, scanners\twain_32\corel\pcd32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 15270,,,,,
+
+[ScannersPCDDemo16]
+	1, scanners\twain_16\corel\pcd.dll,,,, 1995-12-12,,, OLDER,,,,,,, 248912,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\pcd.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 19299,,,,,
+	1, scanners\twain_16\corel\photocd.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[ScannersPanasonic]
+	1, scanners\twain_32\corel\rs30832.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1417,,,,,
+	1, scanners\twain_32\corel\rs30832.dll,,,, 1996-03-21,,, OLDER,,,,,,, 342528,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\rs30832.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 12688,,,,,
+	1, scanners\twain_32\corel\rs30832s.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[ScannersPanasonic16]
+	1, scanners\twain_16\corel\rs308c.dll,,,, 1995-12-12,,, OLDER,,,,,,, 226688,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\rs308c.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 15422,,,,,
+	1, scanners\twain_16\corel\rs308cr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[ScannersUMAX]
+	1, scanners\twain_32\corel\umax32.cnt,,,, 1996-03-21,,, OLDER,,,,,,, 1511,,,,,
+	1, scanners\twain_32\corel\umax32.dll,,,, 1996-03-21,,, OLDER,,,,,,, 362496,,,, 2.5.1.0,
+	1, scanners\twain_32\corel\umax32.hlp,,,, 1996-03-21,,, OLDER,,,,,,, 15242,,,,,
+	1, scanners\twain_32\corel\umax32s.ds,,,, 1996-03-21,,, OLDER,,,,,,, 14336,,,,,
+
+[ScannersUMAX16]
+	1, scanners\twain_16\corel\umax.dll,,,, 1995-12-12,,, OLDER,,,,,,, 252912,,,, 2.5.1.0,
+	1, scanners\twain_16\corel\umax.hlp,,,, 1995-11-08,,, OLDER,,,,,,, 18743,,,,,
+	1, scanners\twain_16\corel\umaxr.ds,,,, 1995-11-30,,, OLDER,,,,,,, 4288,,,,,
+
+[Setup]
+	1, setup\autohse.ico,,,, 1995-11-14,,,,,,,,,, 1078,,,,,
+	1, setup\corsetup.exe,,,, 1996-04-17,,,,,,,,,, 1021440,,,,,
+	1, setup\intro.wav,,,, 1995-10-06,,,,,,,,,, 86588,,,,,
+	1, setup\intro16.bmp,,,, 1995-10-16,,,,,,,,,, 120718,,,,,
+	1, setup\intro256.bmp,,,, 1995-10-16,,,,,,,,,, 242278,,,,,
+	1, setup\introbw.bmp,,,, 1995-10-16,,,,,,,,,, 30614,,,,,
+	1, setup\mscomstf.dll,,,, 1995-03-02,,,,,,,,,, 83456,,,,,
+	1, setup\mscuistf.dll,,,, 1995-11-13,,,,,,,,,, 247808,,,,,
+	1, setup\msdetstf.dll,,,, 1995-03-02,,,,,,,,,, 19456,,,,,
+	1, setup\msinsstf.dll,,,, 1995-03-02,,,,,,,,,, 72192,,,,,
+	1, setup\msshlstf.dll,,,, 1995-03-02,,,,,,,,,, 23040,,,,,
+	1, setup\msuilstf.dll,,,, 1995-03-02,,,,,,,,,, 146432,,,,,
+	1, setup\sb16.bmp,,,, 1996-04-13,,,,,,,,,, 655478,,,,,
+	1, setup\sb256.bmp,,,, 1996-04-13,,,,,,,,,, 1311798,,,,,
+	1, setup\setdata.ini,,,, 1996-04-17,,,,,,,,,, 17262,,,,,
+
+[SpanDict]
+	1, data\hspani08.dat,,,, 1995-08-18,,,,,,,,,, 18681,,,,,
+	1, data\psp3m150.dat,,,, 1995-08-18,,,,,,,,,, 661504,,,,,
+
+[SwedDict]
+	1, data\hswedi07.dat,,,, 1995-08-18,,,,,,,,,, 46274,,,,,
+	1, data\psw2s131.dat,,,, 1995-08-18,,,,,,,,,, 376320,,,,,
+
+[TechHelp]
+	1, programs\techsupp.cnt,,,, 1996-04-10,,,,,,,,,, 2035,,,,,
+	1, programs\techsupp.hlp,,,, 1996-04-10,,,,,,,,,, 73354,,,,,
+
+[UNInstall]
+	1, setup\printhse.bld,,,, 1996-04-16,,,,,,,,,, 7410,,,,,
+	1, setup\uninstal.exe,,,, 1996-03-04,,, OLDER,,,,,,, 746496,,,, 3.4.0.0,
+	1, setup\version.dll,,,, 1995-04-06,,, OLDER,,,,,,, 4608,,,, 1.25.142.0,
